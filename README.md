@@ -2,7 +2,7 @@
 
 A modern web application to help you track, manage, and declutter your digital life. Built with React, TypeScript, and Supabase.
 
-![Digital Declutter Dashboard](![image](https://github.com/user-attachments/assets/f812c436-9bc4-413e-8958-8cc1c6d5842b)
+![Digital Declutter Dashboard](https://github.com/saunakd/Digital-Declutter/blob/main/Screenshot%202025-05-24%20164724.png)
 )
 
 ## Features
